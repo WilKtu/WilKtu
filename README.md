@@ -4,7 +4,7 @@
 
 ###  Junior Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;Apasionado+por+el+Desarrollo+Web;Backend+%7C+Frontend+%7C+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;Apasionado+por+el+desarrollo;Construyendo+soluciones+efficientes"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header"/>
 
@@ -106,24 +106,103 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=WilKtu&bg_co
 
 ---
 
-# 🚀 Proyecto Destacado
+# 🎯 Proyectos Destacados
 
-## 🧠 Sistema Experto - Diagnóstico de PC
+## 1️⃣ 🥤 Distribuidora de Gaseosas del Valle
+
+🔗 **Repositorio:**  
+https://github.com/WilKtu/distribuidora-de-gaseosas-del-valle
+
+### 📖 Descripción
+
+Sistema de gestión integral de inventarios y ventas para la empresa **Gaseosas del Valle**. Base de datos relacional robusta desarrollada en **MySQL** que permite administrar productos, clientes, pedidos, inventario y auditoría de precios con automatización de procesos críticos.
+
+### ✨ Características
+
+- 🏭 **Gestión completa de productos**: Catálogo con categorías, precios, volúmenes y control de stock en tiempo real
+- 👥 **Base de datos de clientes**: Sistema de clientes con información de contacto y ubicación
+- 🏢 **Múltiples sedes**: Gestión de puntos de venta con capacidad y encargados asignados
+- 📦 **Sistema de pedidos**: Registro de pedidos con cálculo automático de IVA
+- 📊 **Auditoría automática de precios**: Historial completo de cambios de precios
+- 🔄 **Actualización automática de stock**: Triggers que ajustan inventario en tiempo real
+- 📈 **Consultas analíticas**: Reportes de ventas, productos más vendidos y análisis por sede
+- 👁️ **Vistas para reportes**: Interfaces simplificadas para información compleja
+
+### 🛠 Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 📋 Arquitectura
+
+```
+✅ Motor InnoDB con FOREIGN KEY
+✅ 6 tablas relacionales principales
+✅ 8 consultas SQL optimizadas
+✅ 2 triggers para automatización
+✅ 1 evento programado (reposición automática)
+✅ 3 vistas para reportes
+✅ Control de acceso granular
+✅ 230+ registros de datos de prueba
+```
+
+---
+
+## 2️⃣ 🏎️ Garage Elite Campus - CRUD con Procedimientos Almacenados
+
+🔗 **Repositorio:**  
+https://github.com/WilKtu/garage_elite_campus
+
+### 📖 Descripción
+
+Solución de **CRUD con procedimientos almacenados** para un taller de motos de alto cilindraje, autos de lujo e hiperdeportivos. Implementa operaciones completas de creación, lectura, actualización y eliminación de citas de servicio mediante procedimientos almacenados en **MySQL**.
+
+### ✨ Características
+
+- ⚡ **Procedimientos almacenados CRUD**: Operaciones de escritura controladas y validadas
+- 🔐 **Transacciones explícitas**: ROLLBACK automático en caso de error
+- ✔️ **Validaciones robustas**: Manejo de excepciones con SIGNAL SQLSTATE
+- 📝 **Borrado lógico vs físico**: Preservación de historial de datos
+- 🗂️ **Estructura modular**: Carpetas separadas por tipo de script (DDL, DML, DQL)
+- 📊 **5 consultas de reporte**: Análisis de datos de citas y servicios
+- 🧪 **Documentación ejecutable**: Casos de prueba y resultados esperados
+
+### 🛠 Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 📋 Estructura de Entrega
+
+```
+analisis/              → Análisis de requerimientos y diseño
+ddl/                  → Definición de esquema y tablas
+dml/                  → Datos de prueba
+procedures/           → CRUD con procedimientos almacenados
+dql/                  → Consultas y reportes
+evidencias/           → Resultados de pruebas
+```
+
+---
+
+## 3️⃣ 🧠 Sistema Experto - Diagnóstico de PC
 
 🔗 **Repositorio:**  
 https://github.com/WilKtu/Sistemas_Expertos
 
 ### 📖 Descripción
 
-Sistema experto desarrollado en **Python** para el diagnóstico de fallas en computadoras. El proyecto simula el razonamiento de un especialista técnico mediante una base de conocimiento y un motor de inferencia, permitiendo identificar problemas y generar diagnósticos de manera automática.
+Sistema experto desarrollado en **Python** para el diagnóstico de fallas en computadoras. El proyecto simula el razonamiento de un especialista técnico mediante una base de conocimiento y un motor de inferencia propio.
 
 ### ✨ Características
 
-- 🧠 Base de conocimiento basada en reglas.
-- ⚙️ Motor de inferencia propio.
-- 🔍 Algoritmo **Backward Chaining**.
-- 📊 Exportación de la red de conocimiento.
-- 🐍 Desarrollado completamente en Python.
+- 🧠 Base de conocimiento basada en reglas
+- ⚙️ Motor de inferencia propio
+- 🔍 Algoritmo **Backward Chaining**
+- 📊 Exportación de la red de conocimiento
+- 🐍 Desarrollado completamente en Python
 
 ### 🛠 Tecnologías
 
@@ -141,7 +220,7 @@ Sistema experto desarrollado en **Python** para el diagnóstico de fallas en com
 <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://github.com/WilKtuy">
+<a href="https://github.com/WilKtu">
 <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
