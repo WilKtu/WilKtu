@@ -46,15 +46,7 @@ const developer = {
 ### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
----
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ---
