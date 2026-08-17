@@ -190,7 +190,7 @@ evidencias/           → Resultados de pruebas
 ## 3️⃣ 🧠 Sistema Experto - Diagnóstico de PC
 
 🔗 **Repositorio:**  
-https://github.com/WilKtu/Sistemas_Expertos
+https://github.com/WilKtu/sistemas_expertos
 
 ### 📖 Descripción
 
