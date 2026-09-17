@@ -1,218 +1,245 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola, soy **Wilder Catú**
+# 👋 Hola, soy **Wilder Catú**
 
-###  Junior Full Stack Developer
+### `Junior Full Stack Developer`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;Apasionado+por+el+desarrollo;Construyendo+soluciones+efficientes"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Junior+Full+Stack+Developer;Backend+%7C+Bases+de+Datos+%7C+Automatizaci%C3%B3n;Resolviendo+problemas+con+c%C3%B3digo;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=header"/>
 
 </div>
 
 ---
 
-#  Sobre mí
+## 🧑‍💻 Sobre mí
 
 ```javascript
-const developer = {
-    nombre: "Wilder Catú",
-    pais: "Guatemala 🇬🇹",
+const wilder = {
     rol: "Junior Full Stack Developer",
-
-    actualmente: "Estudiante y desarrollador en formación",
-
-    aprendiendo: [
-        "MySQL",
-        "JavaScript",
-        "n8n"
-    ],
-
-    intereses: [
-        "Desarrollo Web",
-        "Backend",
-        "Bases de Datos",
-    ],
-
-    objetivo:
-        "Construir soluciones eficientes, aprender nuevas tecnologías y crecer como desarrollador profesional."
-}
+    ubicacion: "Guatemala 🇬🇹",
+    enfoque: ["Backend", "Bases de Datos", "Desarrollo Web"],
+    aprendiendo: ["JavaScript", "MySQL", "n8n"],
+    habilidad: "Resolución de problemas",
+    objetivo: "Crecer como desarrollador y construir soluciones eficientes."
+};
 ```
 
----
-
-# 🚀 Tecnologías
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+> Actualmente me encuentro en formación como desarrollador, fortaleciendo mis conocimientos en **JavaScript, bases de datos, backend y automatización**.
 
 ---
 
-### 🗄️ Bases de Datos
+## ⚡ Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<div align="center">
 
----
+### 💻 Desarrollo
 
-### 🛠 Herramientas
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+### 🗄️ Bases de datos
 
----
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-# 📈 Actividad
+### 🛠️ Herramientas
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=WilKtu&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-# 📚 Actualmente aprendiendo
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WilKtu&show_icons=true&theme=transparent&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilKtu&layout=compact&theme=transparent&title_color=00E5FF&text_color=ffffff&hide_border=true&langs_count=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=WilKtu&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilKtu&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=WilKtu&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+|  Tecnología  | Enfoque                                |
+| :----------: | :------------------------------------- |
+| `JavaScript` | Lógica, funciones y desarrollo backend |
+|   `Node.js`  | Runtime y aplicaciones de consola      |
+|    `MySQL`   | Modelado, consultas y automatización   |
+|     `n8n`    | Automatización de procesos             |
+| `HTML / CSS` | Estructura e interfaces web            |
+
+---
+
+## 🚀 Proyectos
+
+<details>
+<summary><b>🥤 Distribuidora de Gaseosas del Valle</b></summary>
+
+<br>
+
+**Sistema de gestión y ventas desarrollado con MySQL.**
+
+**Incluye:**
+
+* Gestión de productos y clientes
+* Control de inventario
+* Pedidos y cálculo de IVA
+* Múltiples sedes
+* Auditoría de cambios de precios
+* Triggers para automatización
+* Vistas y consultas analíticas
+* Evento programado para reposición
+
+**Tecnología**
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**Arquitectura**
 
 ```text
-███████████████████░░░  JavaScript
-
-██████████████████░░░░  Html
-
-██████████████████░░░░   CSS
-
-█████████░░░░░░░░░░░░░ MySQL
-
-████████████░░░░░░░░░░   n8n
+6 tablas principales
+8 consultas SQL
+2 triggers
+1 evento programado
+3 vistas
+230+ registros de prueba
 ```
+
+<a href="https://github.com/WilKtu/distribuidora-de-gaseosas-del-valle">
+<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🏎️ Garage Elite Campus</b></summary>
+
+<br>
+
+**Sistema CRUD para gestión de citas de servicio mediante procedimientos almacenados en MySQL.**
+
+**Incluye:**
+
+* CRUD mediante procedimientos almacenados
+* Transacciones con `COMMIT` y `ROLLBACK`
+* Validaciones mediante `SIGNAL SQLSTATE`
+* Borrado lógico y físico
+* Consultas de reportes
+* Organización modular de scripts SQL
+* Casos de prueba y evidencias
+
+**Estructura**
+
+```text
+analisis/
+ddl/
+dml/
+procedures/
+dql/
+evidencias/
+```
+
+**Tecnología**
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<a href="https://github.com/WilKtu/garage_elite_campus">
+<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🧠 Sistema Experto — Diagnóstico de PC</b></summary>
+
+<br>
+
+**Sistema experto desarrollado en Python para diagnosticar posibles fallas de computadores.**
+
+**Características principales:**
+
+* Base de conocimiento basada en reglas
+* Motor de inferencia propio
+* Algoritmo `Backward Chaining`
+* Exportación de la red de conocimiento
+* Diagnóstico mediante razonamiento basado en reglas
+
+**Tecnología**
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<a href="https://github.com/WilKtu/sistemas_expertos">
+<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</details>
 
 ---
 
-# 🌟 Habilidades
+## 🧩 Habilidades
 
-✔ Resolución de problemas
+<div align="center">
 
-✔ Desarrollo Backend
+| Área               | Conocimientos                                                      |
+| :----------------- | :----------------------------------------------------------------- |
+| **Frontend**       | HTML · CSS · JavaScript                                            |
+| **Backend**        | Node.js · JavaScript                                               |
+| **Bases de datos** | MySQL · SQL                                                        |
+| **Automatización** | n8n                                                                |
+| **Programación**   | Python · JavaScript                                                |
+| **Herramientas**   | Git · GitHub · VS Code                                             |
+| **Soft Skills**    | Resolución de problemas · Trabajo en equipo · Aprendizaje continuo |
 
-✔ Desarrollo Frontend
-
-✔ Bases de Datos Relacionales
-
-✔ Trabajo en Equipo
-
-✔ Aprendizaje Continuo
-
----
-
-# 🎯 Proyectos Destacados
-
-## 1️⃣ 🥤 Distribuidora de Gaseosas del Valle
-
-🔗 **Repositorio:**  
-https://github.com/WilKtu/distribuidora-de-gaseosas-del-valle
-
-### 📖 Descripción
-
-Sistema de gestión integral de inventarios y ventas para la empresa **Gaseosas del Valle**. Base de datos relacional robusta desarrollada en **MySQL** que permite administrar productos, clientes, pedidos, inventario y auditoría de precios con automatización de procesos críticos.
-
-### ✨ Características
-
-- 🏭 **Gestión completa de productos**: Catálogo con categorías, precios, volúmenes y control de stock en tiempo real
-- 👥 **Base de datos de clientes**: Sistema de clientes con información de contacto y ubicación
-- 🏢 **Múltiples sedes**: Gestión de puntos de venta con capacidad y encargados asignados
-- 📦 **Sistema de pedidos**: Registro de pedidos con cálculo automático de IVA
-- 📊 **Auditoría automática de precios**: Historial completo de cambios de precios
-- 🔄 **Actualización automática de stock**: Triggers que ajustan inventario en tiempo real
-- 📈 **Consultas analíticas**: Reportes de ventas, productos más vendidos y análisis por sede
-- 👁️ **Vistas para reportes**: Interfaces simplificadas para información compleja
-
-### 🛠 Tecnologías
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 📋 Arquitectura
-
-```
-✅ Motor InnoDB con FOREIGN KEY
-✅ 6 tablas relacionales principales
-✅ 8 consultas SQL optimizadas
-✅ 2 triggers para automatización
-✅ 1 evento programado (reposición automática)
-✅ 3 vistas para reportes
-✅ Control de acceso granular
-✅ 230+ registros de datos de prueba
-```
+</div>
 
 ---
 
-## 2️⃣ 🏎️ Garage Elite Campus - CRUD con Procedimientos Almacenados
+## 🐍 Contribution Graph
 
-🔗 **Repositorio:**  
-https://github.com/WilKtu/garage_elite_campus
+<div align="center">
 
-### 📖 Descripción
+<img src="https://raw.githubusercontent.com/WilKtu/WilKtu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-Solución de **CRUD con procedimientos almacenados** para un taller de motos de alto cilindraje, autos de lujo e hiperdeportivos. Implementa operaciones completas de creación, lectura, actualización y eliminación de citas de servicio mediante procedimientos almacenados en **MySQL**.
-
-### ✨ Características
-
-- ⚡ **Procedimientos almacenados CRUD**: Operaciones de escritura controladas y validadas
-- 🔐 **Transacciones explícitas**: ROLLBACK automático en caso de error
-- ✔️ **Validaciones robustas**: Manejo de excepciones con SIGNAL SQLSTATE
-- 📝 **Borrado lógico vs físico**: Preservación de historial de datos
-- 🗂️ **Estructura modular**: Carpetas separadas por tipo de script (DDL, DML, DQL)
-- 📊 **5 consultas de reporte**: Análisis de datos de citas y servicios
-- 🧪 **Documentación ejecutable**: Casos de prueba y resultados esperados
-
-### 🛠 Tecnologías
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 📋 Estructura de Entrega
-
-```
-analisis/              → Análisis de requerimientos y diseño
-ddl/                  → Definición de esquema y tablas
-dml/                  → Datos de prueba
-procedures/           → CRUD con procedimientos almacenados
-dql/                  → Consultas y reportes
-evidencias/           → Resultados de pruebas
-```
+</div>
 
 ---
 
-## 3️⃣ 🧠 Sistema Experto - Diagnóstico de PC
-
-🔗 **Repositorio:**  
-https://github.com/WilKtu/sistemas_expertos
-
-### 📖 Descripción
-
-Sistema experto desarrollado en **Python** para el diagnóstico de fallas en computadoras. El proyecto simula el razonamiento de un especialista técnico mediante una base de conocimiento y un motor de inferencia propio.
-
-### ✨ Características
-
-- 🧠 Base de conocimiento basada en reglas
-- ⚙️ Motor de inferencia propio
-- 🔍 Algoritmo **Backward Chaining**
-- 📊 Exportación de la red de conocimiento
-- 🐍 Desarrollado completamente en Python
-
-### 🛠 Tecnologías
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
----
-
-# 🌎 Contacto
+## 📫 Contacto
 
 <div align="center">
 
@@ -230,8 +257,8 @@ Sistema experto desarrollado en **Python** para el diagnóstico de fallas en com
 
 <div align="center">
 
-## 💡 *"El mejor código no solo funciona, también inspira."*
+### 💡 *"El mejor código no solo funciona, también inspira."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
 
 </div>
