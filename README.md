@@ -87,6 +87,10 @@ const wilder = {
   src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png"
   width="100"
 />
+<img
+  src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
+  width="100"
+/>
 
 </div>
 
