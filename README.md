@@ -83,7 +83,10 @@ const wilder = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WilKtu&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+<img
+  src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png"
+  width="100"
+/>
 
 </div>
 
