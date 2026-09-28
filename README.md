@@ -51,10 +51,6 @@ const wilder = {
 
 ## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilKtu&layout=compact&theme=transparent&title_color=00E5FF&text_color=ffffff&hide_border=true&langs_count=6"/>
-
-</div>
-
 <br>
 
 <div align="center">
