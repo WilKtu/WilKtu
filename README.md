@@ -51,10 +51,6 @@ const wilder = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WilKtu&show_icons=true&theme=transparent&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF&hide_border=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilKtu&layout=compact&theme=transparent&title_color=00E5FF&text_color=ffffff&hide_border=true&langs_count=6"/>
 
 </div>
@@ -64,16 +60,6 @@ const wilder = {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=WilKtu&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilKtu&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
