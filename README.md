@@ -236,15 +236,6 @@ evidencias/
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/WilKtu/WilKtu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
