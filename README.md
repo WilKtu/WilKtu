@@ -1,12 +1,32 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020a05,100:00FF41&height=170&section=header&text=Wilder%20Cat%C3%BA&fontSize=52&fontColor=B6FFC8&fontAlignY=38&desc=T%C3%A9cnico%20en%20Desarrollo%20de%20Software&descAlignY=58&descSize=18" alt="Encabezado"/>
+
 # 👋 Hola, soy **Wilder Catú**
 
-### `Junior Full Stack Developer`
+### `Tecnico en desarrollo de software`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Junior+Full+Stack+Developer;Backend+%7C+Bases+de+Datos+%7C+Automatizaci%C3%B3n;Resolviendo+problemas+con+c%C3%B3digo;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Tecnico+en+desarrollo+software;Frontend+%7C+Automatizaci%C3%B3n;Resolviendo+problemas+con+c%C3%B3digo;Siempre+aprendiendo" alt="Texto animado"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=header"/>
+<br>
+
+<a href="https://claude.ai/artifact/2xgqACEWH6x7pBELzizxLB">
+<img src="https://img.shields.io/badge/Portafolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+<a href="https://drive.google.com/file/d/1GXtyMnWkbWbl9S0J7GpL-5jfpRNwiRCR/view">
+<img src="https://img.shields.io/badge/Ver_CV-0b2e13?style=for-the-badge&logo=readme&logoColor=00FF41"/>
+</a>
+<a href="https://www.linkedin.com/in/wilder-fernando-elias-catu-colaj-7a0a8a346">
+<img src="https://img.shields.io/badge/LinkedIn-0b2e13?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+<a href="mailto:fernandocolaj7@gmail.com">
+<img src="https://img.shields.io/badge/Email-0b2e13?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Disponible_para_incorporaci%C3%B3n_inmediata-00FF41?style=flat-square&logo=statuspage&logoColor=black"/>
+<img src="https://img.shields.io/badge/Guatemala-0b2e13?style=flat-square&logo=googlemaps&logoColor=00FF41"/>
 
 </div>
 
@@ -16,11 +36,13 @@
 
 ```javascript
 const wilder = {
-    rol: "Junior Full Stack Developer",
+    formacion: "Técnico en Desarrollo de Software · Campuslands GT",
     ubicacion: "Guatemala 🇬🇹",
-    enfoque: ["Backend", "Bases de Datos", "Desarrollo Web"],
-    aprendiendo: ["JavaScript", "MySQL", "n8n"],
+    enfoque: ["Frontend"", "Desarrollo Web"],
+    aprendiendo: ["JavaScript", "MySQL", "NodeJS"],
     habilidad: "Resolución de problemas",
+    idiomas: ["Español (nativo)", "Inglés (A2)"],
+    disponible: true,
     objetivo: "Crecer como desarrollador y construir soluciones eficientes."
 };
 ```
@@ -35,15 +57,15 @@ const wilder = {
 
 ### 💻 Desarrollo
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs&theme=dark" alt="Desarrollo"/>
 
 ### 🗄️ Bases de datos
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Bases de datos"/>
 
 ### 🛠️ Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,n8n&theme=dark" alt="Herramientas"/>
 
 </div>
 
@@ -55,7 +77,12 @@ const wilder = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=WilKtu&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+<img src="https://streak-stats.demolab.com?user=WilKtu&theme=dark&background=020A05&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=B6FFC8&sideNums=B6FFC8&sideLabels=7FAE8D&dates=7FAE8D" alt="Racha de contribuciones"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=WilKtu&show_icons=true&hide_border=true&bg_color=020A05&title_color=00FF41&icon_color=00FF41&text_color=B6FFC8&ring_color=00FF41" height="165" alt="Estadísticas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilKtu&layout=compact&hide_border=true&bg_color=020A05&title_color=00FF41&text_color=B6FFC8" height="165" alt="Lenguajes"/>
 
 </div>
 
@@ -86,7 +113,6 @@ const wilder = {
 |   `Node.js`  | Runtime y aplicaciones de consola      |
 |    `MySQL`   | Modelado, consultas y automatización   |
 |     `n8n`    | Automatización de procesos             |
-| `HTML / CSS` | Estructura e interfaces web            |
 
 ---
 
@@ -112,7 +138,7 @@ const wilder = {
 
 **Tecnología**
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 **Arquitectura**
 
@@ -126,7 +152,7 @@ const wilder = {
 ```
 
 <a href="https://github.com/WilKtu/distribuidora-de-gaseosas-del-valle">
-<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ver_Repositorio-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </details>
@@ -163,10 +189,10 @@ evidencias/
 
 **Tecnología**
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 <a href="https://github.com/WilKtu/garage_elite_campus">
-<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ver_Repositorio-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </details>
@@ -190,10 +216,10 @@ evidencias/
 
 **Tecnología**
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <a href="https://github.com/WilKtu/sistemas_expertos">
-<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ver_Repositorio-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </details>
@@ -222,7 +248,7 @@ evidencias/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/WilKtu/WilKtu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/WilKtu/WilKtu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -233,11 +259,16 @@ evidencias/
 <div align="center">
 
 <a href="mailto:fernandocolaj7@gmail.com">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
-
 <a href="https://github.com/WilKtu">
-<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/wilder-fernando-elias-catu-colaj-7a0a8a346">
+<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+<a href="https://claude.ai/artifact/2xgqACEWH6x7pBELzizxLB">
+<img src="https://img.shields.io/badge/Portafolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </div>
@@ -248,6 +279,6 @@ evidencias/
 
 ### 💡 *"El mejor código no solo funciona, también inspira."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:020a05&height=110&section=footer" alt="Pie"/>
 
 </div>
