@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020a05,100:00FF41&height=170&section=header&text=Wilder%20Cat%C3%BA&fontSize=52&fontColor=B6FFC8&fontAlignY=38&desc=T%C3%A9cnico%20en%20Desarrollo%20de%20Software&descAlignY=58&descSize=18" alt="Encabezado"/>
 
-# 👋 Hola, soy **Wilder Catú**
-
-### `Tecnico en desarrollo de software`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Tecnico+en+desarrollo+software;Frontend+%7C+Automatizaci%C3%B3n;Resolviendo+problemas+con+c%C3%B3digo;Siempre+aprendiendo" alt="Texto animado"/>
 
@@ -80,9 +77,6 @@ const wilder = {
 <img src="https://streak-stats.demolab.com?user=WilKtu&theme=dark&background=020A05&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=B6FFC8&sideNums=B6FFC8&sideLabels=7FAE8D&dates=7FAE8D" alt="Racha de contribuciones"/>
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=WilKtu&show_icons=true&hide_border=true&bg_color=020A05&title_color=00FF41&icon_color=00FF41&text_color=B6FFC8&ring_color=00FF41" height="165" alt="Estadísticas"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilKtu&layout=compact&hide_border=true&bg_color=020A05&title_color=00FF41&text_color=B6FFC8" height="165" alt="Lenguajes"/>
 
 </div>
 
