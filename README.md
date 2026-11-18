@@ -34,13 +34,9 @@
 ```javascript
 const wilder = {
     formacion: "Técnico en Desarrollo de Software · Campuslands GT",
-    ubicacion: "Guatemala 🇬🇹",
+    ubicacion: "Guatemala",
     enfoque: ["Frontend"", "Desarrollo Web"],
-    aprendiendo: ["JavaScript", "MySQL", "NodeJS"],
-    habilidad: "Resolución de problemas",
-    idiomas: ["Español (nativo)", "Inglés (A2)"],
-    disponible: true,
-    objetivo: "Crecer como desarrollador y construir soluciones eficientes."
+    idiomas: ["Español (nativo)", "Inglés (A2)"]
 };
 ```
 
