@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://claude.ai/artifact/2xgqACEWH6x7pBELzizxLB">
+<a href="https://wilktu.github.io/portafolio/">
 <img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0A1128"/>
 </a>
 <a href="https://drive.google.com/file/d/1GXtyMnWkbWbl9S0J7GpL-5jfpRNwiRCR/view">
@@ -88,9 +88,6 @@ const wilder = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/WilKtu/WilKtu/output/github-snake-dark.svg" alt="Calendario de contribuciones animado" width="100%"/>
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilKtu&bg_color=0A1128&color=00E5FF&line=3D5AFE&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&radius=10&custom_title=Commits%20por%20d%C3%ADa%20(picos%20%3D%20d%C3%ADas%20con%20m%C3%A1s%20actividad)" alt="Picos de commits"/>
 
@@ -294,7 +291,7 @@ evidencias/
 <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0A1128"/>
 </a>
-<a href="https://claude.ai/artifact/2xgqACEWH6x7pBELzizxLB">
+<a href="https://wilktu.github.io/portafolio/">
 <img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0A1128"/>
 </a>
 
