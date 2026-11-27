@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020a05,100:00FF41&height=170&section=header&text=Wilder%20Cat%C3%BA&fontSize=52&fontColor=B6FFC8&fontAlignY=38&desc=T%C3%A9cnico%20en%20Desarrollo%20de%20Software&descAlignY=58&descSize=18" alt="Encabezado"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0B3D91,100:00E5FF&height=180&section=header&text=Wilder%20Cat%C3%BA&fontSize=52&fontColor=E0FBFF&fontAlignY=38&desc=T%C3%A9cnico%20en%20Desarrollo%20de%20Software&descAlignY=58&descSize=18" alt="Encabezado"/>
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Tecnico+en+desarrollo+software;Frontend+%7C+Automatizaci%C3%B3n;Resolviendo+problemas+con+c%C3%B3digo;Siempre+aprendiendo" alt="Texto animado"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=T%C3%A9cnico+en+desarrollo+de+software;Frontend+%7C+Backend+%7C+Automatizaci%C3%B3n;Resolviendo+problemas+con+c%C3%B3digo;Siempre+aprendiendo" alt="Texto animado"/>
 
 <br>
 
 <a href="https://claude.ai/artifact/2xgqACEWH6x7pBELzizxLB">
-<img src="https://img.shields.io/badge/Portafolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0A1128"/>
 </a>
 <a href="https://drive.google.com/file/d/1GXtyMnWkbWbl9S0J7GpL-5jfpRNwiRCR/view">
-<img src="https://img.shields.io/badge/Ver_CV-0b2e13?style=for-the-badge&logo=readme&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Ver_CV-0A1128?style=for-the-badge&logo=readme&logoColor=00E5FF&labelColor=0A1128"/>
 </a>
-<a href="https://www.linkedin.com/in/wilder-fernando-elias-catu-colaj-7a0a8a346">
-<img src="https://img.shields.io/badge/LinkedIn-0b2e13?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A1128"/>
 </a>
 <a href="mailto:fernandocolaj7@gmail.com">
-<img src="https://img.shields.io/badge/Email-0b2e13?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0A1128"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Disponible_para_incorporaci%C3%B3n_inmediata-00FF41?style=flat-square&logo=statuspage&logoColor=black"/>
-<img src="https://img.shields.io/badge/Guatemala-0b2e13?style=flat-square&logo=googlemaps&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Disponible_para_incorporaci%C3%B3n_inmediata-00E5FF?style=flat-square&logo=statuspage&logoColor=0A1128"/>
+<img src="https://img.shields.io/badge/Guatemala-0A1128?style=flat-square&logo=googlemaps&logoColor=00E5FF"/>
+<img src="https://komarev.com/ghpvc/?username=WilKtu&color=00E5FF&style=flat-square&label=VISITAS" alt="Visitas"/>
 
 </div>
 
@@ -35,8 +35,9 @@
 const wilder = {
     formacion: "Técnico en Desarrollo de Software · Campuslands GT",
     ubicacion: "Guatemala",
-    enfoque: ["Frontend"", "Desarrollo Web"],
-    idiomas: ["Español (nativo)", "Inglés (A2)"]
+    enfoque: ["Frontend", "Backend", "Bases de datos", "Automatización"],
+    idiomas: ["Español (nativo)", "Inglés (A2)"],
+    disponibilidad: "Incorporación inmediata"
 };
 ```
 
@@ -66,13 +67,38 @@ const wilder = {
 
 ## 📊 GitHub Analytics
 
-<br>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WilKtu&show_icons=true&hide_border=true&bg_color=0A1128&title_color=00E5FF&icon_color=00E5FF&text_color=E0FBFF&ring_color=00E5FF&include_all_commits=true&count_private=true" height="180" alt="Estadísticas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilKtu&layout=compact&hide_border=true&bg_color=0A1128&title_color=00E5FF&text_color=E0FBFF&langs_count=8" height="180" alt="Lenguajes"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=WilKtu&theme=dark&background=0A1128&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=E0FBFF&sideNums=E0FBFF&sideLabels=7FB3D5&dates=7FB3D5" alt="Racha de contribuciones"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=WilKtu&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trofeos"/>
+
+</div>
+
+---
+
+## 📅 Contribuciones por año
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=WilKtu&theme=dark&background=020A05&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=B6FFC8&sideNums=B6FFC8&sideLabels=7FAE8D&dates=7FAE8D" alt="Racha de contribuciones"/>
+<img src="https://raw.githubusercontent.com/WilKtu/WilKtu/output/github-snake-dark.svg" alt="Calendario de contribuciones animado" width="100%"/>
 
-<br><br>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilKtu&bg_color=0A1128&color=00E5FF&line=3D5AFE&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&radius=10&custom_title=Commits%20por%20d%C3%ADa%20(picos%20%3D%20d%C3%ADas%20con%20m%C3%A1s%20actividad)" alt="Picos de commits"/>
+
+<br>
+
+<img src="https://ghchart.rshah.org/00E5FF/WilKtu" alt="Contribuciones del año" width="90%"/>
+
+<sub>📈 Pasa el cursor sobre los puntos de la gráfica para ver los commits de cada día.</sub>
 
 </div>
 
@@ -82,14 +108,8 @@ const wilder = {
 
 <div align="center">
 
-<img
-  src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png"
-  width="100"
-/>
-<img
-  src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
-  width="100"
-/>
+<img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="100"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100"/>
 
 </div>
 
@@ -100,9 +120,9 @@ const wilder = {
 |  Tecnología  | Enfoque                                |
 | :----------: | :------------------------------------- |
 | `JavaScript` | Lógica, funciones y desarrollo backend |
-|   `Node.js`  | Runtime y aplicaciones de consola      |
-|    `MySQL`   | Modelado, consultas y automatización   |
-|     `n8n`    | Automatización de procesos             |
+|  `Node.js`   | Runtime y aplicaciones de consola      |
+|   `MySQL`    | Modelado, consultas y automatización   |
+|    `n8n`     | Automatización de procesos             |
 
 ---
 
@@ -142,7 +162,7 @@ const wilder = {
 ```
 
 <a href="https://github.com/WilKtu/distribuidora-de-gaseosas-del-valle">
-<img src="https://img.shields.io/badge/Ver_Repositorio-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=0A1128"/>
 </a>
 
 </details>
@@ -182,7 +202,7 @@ evidencias/
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 <a href="https://github.com/WilKtu/garage_elite_campus">
-<img src="https://img.shields.io/badge/Ver_Repositorio-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=0A1128"/>
 </a>
 
 </details>
@@ -209,10 +229,20 @@ evidencias/
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <a href="https://github.com/WilKtu/sistemas_expertos">
-<img src="https://img.shields.io/badge/Ver_Repositorio-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ver_Repositorio-00E5FF?style=for-the-badge&logo=github&logoColor=0A1128"/>
 </a>
 
 </details>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/WilKtu/distribuidora-de-gaseosas-del-valle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilKtu&repo=distribuidora-de-gaseosas-del-valle&theme=dark&bg_color=0A1128&title_color=00E5FF&text_color=E0FBFF&icon_color=00E5FF&hide_border=true"/></a>
+<a href="https://github.com/WilKtu/garage_elite_campus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilKtu&repo=garage_elite_campus&theme=dark&bg_color=0A1128&title_color=00E5FF&text_color=E0FBFF&icon_color=00E5FF&hide_border=true"/></a>
+<a href="https://github.com/WilKtu/sistemas_expertos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilKtu&repo=sistemas_expertos&theme=dark&bg_color=0A1128&title_color=00E5FF&text_color=E0FBFF&icon_color=00E5FF&hide_border=true"/></a>
+
+</div>
 
 ---
 
@@ -224,7 +254,7 @@ evidencias/
 | :----------------- | :----------------------------------------------------------------- |
 | **Frontend**       | HTML · CSS · JavaScript                                            |
 | **Backend**        | Node.js · JavaScript                                               |
-| **Bases de datos** | MySQL · SQL                                                        |
+| **Bases de datos** | MySQL · SQL (procedimientos, triggers, vistas, eventos)            |
 | **Automatización** | n8n                                                                |
 | **Programación**   | Python · JavaScript                                                |
 | **Herramientas**   | Git · GitHub · VS Code                                             |
@@ -232,6 +262,22 @@ evidencias/
 
 </div>
 
+---
+
+## 🎓 Formación
+
+| Estudio                           | Institución    | Estado     |
+| :-------------------------------- | :------------- | :--------- |
+| Técnico en Desarrollo de Software | Campuslands GT | `En curso` |
+| Inglés                            | —              | `Nivel A2` |
+
+---
+
+## 🎯 Objetivos
+
+* 🔹 Integrarme a un equipo como desarrollador junior
+* 🔹 Dominar JavaScript, Node.js y bases de datos
+* 🔹 Automatizar procesos con n8n y Python
 
 ---
 
@@ -240,16 +286,16 @@ evidencias/
 <div align="center">
 
 <a href="mailto:fernandocolaj7@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0A1128"/>
 </a>
 <a href="https://github.com/WilKtu">
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=0A1128"/>
 </a>
-<a href="https://www.linkedin.com/in/wilder-fernando-elias-catu-colaj-7a0a8a346">
-<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0A1128"/>
 </a>
 <a href="https://claude.ai/artifact/2xgqACEWH6x7pBELzizxLB">
-<img src="https://img.shields.io/badge/Portafolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0A1128"/>
 </a>
 
 </div>
@@ -260,6 +306,6 @@ evidencias/
 
 ### 💡 *"El mejor código no solo funciona, también inspira."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:020a05&height=110&section=footer" alt="Pie"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B3D91,100:0A1128&height=120&section=footer" alt="Pie"/>
 
 </div>
